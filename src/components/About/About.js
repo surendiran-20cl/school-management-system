@@ -9,7 +9,7 @@ function About() {
 					<p>
 						This is an open source app which is built for showing some programming skills purpose, for sure
 						i could`ve created a system that enables any username and password to login but there`s no need
-						for this
+						for this what
 					</p>
 					<p>
 						This app has no authentication (signup/login) system which means that any one can start using,
